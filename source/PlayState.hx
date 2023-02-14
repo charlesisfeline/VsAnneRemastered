@@ -687,7 +687,7 @@ class PlayState extends MusicBeatState
 				}				
 	}
 
-		if (SONG.song.toLowerCase() == 'anne-sterminator-2')
+		if (SONG.song.toLowerCase() == 'anne-sterminator-2') //why this?
 			{
 				playerStrums.forEach(function(spr:FlxSprite)
 				{
